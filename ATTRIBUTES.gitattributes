@@ -1,0 +1,2 @@
+*.yacc linguist-detectable=false
+*.gml linguist-detectable=true
